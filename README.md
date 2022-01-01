@@ -1,2 +1,0 @@
-# robokashmir
-Kashmir and Robotics
